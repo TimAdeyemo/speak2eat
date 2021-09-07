@@ -1,0 +1,39 @@
+{
+  "name": "speak2eat",
+  "version": "1.0.0",
+  "description": "Talking with your mouth full",
+  "main": "index.js",
+  "scripts": {
+    "react-dev": "webpack -d --watch",
+    "start": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Adeyemo",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "gsap": "^3.7.1",
+    "jquery": "^3.3.1",
+    "nodemon": "^2.0.12",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "web-vitals": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
