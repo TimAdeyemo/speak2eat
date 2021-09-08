@@ -19,9 +19,10 @@ A MERN web app to streamline the cooking process
    ```
 4. Run dev scripts.
    ```sh
-  npm run react-dev
-  npm run start-dev
+   npm run react-dev
+   npm run start-dev
    ```
+5. Have Fun!!
 
 ## Motivation
 I wanted to help everyone who loves to cook to get their hands dirty while keeping their screens clean!
