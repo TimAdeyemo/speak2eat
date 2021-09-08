@@ -1,4 +1,4 @@
-# Speak2Eat
+# :rice: Speak2Eat :pizza:
 
 A MERN web app to streamline the cooking process
 
