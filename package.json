@@ -3,13 +3,18 @@
   "version": "1.0.0",
   "description": "Talking with your mouth full",
   "main": "index.js",
+  "homepage": "https://github.com/TimAdeyemo/speak2eat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimAdeyemo/speak2eat"
+  },
   "scripts": {
     "react-dev": "webpack -d --watch",
-    "start": "nodemon server/index.js",
+    "start-dev": "nodemon server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tim Adeyemo",
-  "license": "UNLICENSED",
+  "license" : "ISC",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
