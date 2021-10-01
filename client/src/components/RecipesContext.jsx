@@ -44,7 +44,6 @@ export const RecipesProvider = ({children}) => {
         setQuery([...query, ' ', transcript]);
       }
     }
-    //recognition.onend(recognition.start);
     recognition.start();
   }
 
